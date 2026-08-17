@@ -3,3 +3,5 @@ data/sessions.json
 .env
 *.log
 data/db.json.bak
+
+node_modules
