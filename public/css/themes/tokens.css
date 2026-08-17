@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap");
+:root{
+--g-primary:#7c3aed;--g-primary-strong:#5b21b6;--g-accent:#f59e0b;
+--g-bg:#080b16;--g-bg-2:#11162a;--g-surface:rgba(255,255,255,.075);--g-surface-strong:rgba(255,255,255,.12);
+--g-border:rgba(255,255,255,.16);--g-text:#f8fafc;--g-text-muted:#aeb7cc;--g-success:#34d399;--g-danger:#fb7185;
+--g-radius:22px;--g-blur:18px;--g-shadow:0 24px 70px rgba(0,0,0,.28);--g-container:1180px;
+}

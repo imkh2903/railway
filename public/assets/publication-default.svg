@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
+<defs>
+ <linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#34235f"/><stop offset="0.55" stop-color="#171a32"/><stop offset="1" stop-color="#2b2020"/></linearGradient>
+ <radialGradient id="r" cx="50%" cy="40%" r="60%"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".55"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#g)"/>
+<rect width="1600" height="900" fill="url(#r)"/>
+<circle cx="800" cy="370" r="88" fill="#ffffff" fill-opacity=".13"/>
+<text x="800" y="390" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="86">⚜</text>
+<text x="800" y="590" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="44" font-weight="700" letter-spacing="5">GUDEP MAN 1</text>
+<text x="800" y="650" text-anchor="middle" fill="#c9c4d8" font-family="Arial,sans-serif" font-size="26">NEWSROOM</text>
+</svg>
